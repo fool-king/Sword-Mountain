@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\makegame\\Sword Mountain\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC655E86-DBE8-C219-18B7-CE3299DC80F3}|Assembly-CSharp.csproj|e:\\makegame\\sword mountain\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC655E86-DBE8-C219-18B7-CE3299DC80F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\makegame\\Sword Mountain\\Assets\\script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerMovement.cs",
+              "ToolTip": "E:\\makegame\\Sword Mountain\\Assets\\script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:33:11.582Z",
+              "EditorCaption": ""
             }
           ]
         }
